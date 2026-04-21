@@ -167,6 +167,19 @@ Projeto estruturado seguindo boas práticas de engenharia **sem perder o foco em
 -   ✔️ Logs sem dados sensíveis
 
 
+---
+
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
 ----------
 
 ## Contribuição
