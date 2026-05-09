@@ -1,12 +1,12 @@
 # Whois & IP Info Aggregator  
 ### Passive Reconnaissance Tool for Pentesting & OSINT
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.10%2B-darkred?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Async%20API-009688?style=for-the-badge&logo=fastapi)
 ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-Passive%20Recon-darkred?style=for-the-badge&logo=target)
 ![OSINT](https://img.shields.io/badge/OSINT-IP%20%26%20Domain%20Intel-black?style=for-the-badge&logo=search)
-![API Integration](https://img.shields.io/badge/API-Integration-green?style=for-the-badge&logo=api)
-![Security](https://img.shields.io/badge/Cybersecurity-Recon%20Tool-critical?style=for-the-badge&logo=hackaday)
+![API Integration](https://img.shields.io/badge/API-Integration-darkred?style=for-the-badge&logo=api)
+![Security](https://img.shields.io/badge/Cybersecurity-Recon%20Tool-black?style=for-the-badge&logo=hackaday)
 [![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 
