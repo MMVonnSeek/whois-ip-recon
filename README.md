@@ -7,6 +7,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-IP%20%26%20Domain%20Intel-black?style=for-the-badge&logo=search)
 ![API Integration](https://img.shields.io/badge/API-Integration-green?style=for-the-badge&logo=api)
 ![Security](https://img.shields.io/badge/Cybersecurity-Recon%20Tool-critical?style=for-the-badge&logo=hackaday)
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 
 Ferramenta de **reconhecimento passivo** desenvolvida em **Python**, voltada para a **fase inicial de pentests, bug bounty e investigações OSINT**.
@@ -166,20 +167,6 @@ Projeto estruturado seguindo boas práticas de engenharia **sem perder o foco em
     
 -   ✔️ Logs sem dados sensíveis
 
-
----
-
-## 💖 Apoie este projeto
-
-Se este projeto te ajudou, considere apoiar ❤️
-
-Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
-
-👉 https://github.com/sponsors/MMVonnSeek
-
-Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
-
----
 ----------
 
 ## Contribuição
@@ -206,9 +193,8 @@ Se você gostou do projeto, não esqueça de:
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/whois-ip-recon?style=social)](https://github.com/MMVonnSeek/whois-ip-recon/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
 
-<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
